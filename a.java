@@ -3,5 +3,5 @@ class A
 void modify()
 {
 }
-  hi,welcome
+  hi,welcome , name
 }
