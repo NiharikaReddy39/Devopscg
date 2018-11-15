@@ -1,4 +1,4 @@
-//modified in remote
+//modified in remote repo
 class A
 {
 void modify()
